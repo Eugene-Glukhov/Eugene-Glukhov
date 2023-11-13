@@ -17,7 +17,7 @@ Python, Pandas, Numpy, Matplotlib, Scikit-learn, CatBoost
 🌱 BI:
 DataLens
 
-📫 мои контакты: hanthica@yandex.ru, Telegram: @i_lungo
+📫 мои контакты: hanthica@yandex.ru, [Telegram](https://t.me/i_lungo)
 
 | #  | **Репозитории**  | **Описание**|
 |:-- |:---------------| :-------------------|
